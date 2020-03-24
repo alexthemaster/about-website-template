@@ -75,6 +75,7 @@ footer {
         top: 0;
         transform: translate(0, 0);
         width: 80vw;
+        padding: 1em;
         margin: 1em;
         position: relative;
     }
