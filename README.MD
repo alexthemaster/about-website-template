@@ -1,6 +1,6 @@
 # Generic about website template
 
-A live demo is available [here](https://gh.atm.moe/about-website-template)
+A live demo is available [here](https://alexthemaster.github.io/about-website-template/)
 
 The template itself can be found under the src folder.
 
